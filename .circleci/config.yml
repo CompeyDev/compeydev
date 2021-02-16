@@ -11,3 +11,9 @@ workflows:
     # Run the welcome/run job in its own container
     jobs:
       - welcome/run
+      
+notify:
+  webhooks:
+    # A list of hook hashes, containing the url field
+    # gitter hook
+    - url: https://webhooks.gitter.im/e/b7f5ccb6ef7564e6c4ed
