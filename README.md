@@ -17,7 +17,7 @@ I am TheAwesomeCoder05 from [Team Awesome](https://github.com/Team2Awesome). You
 <br>
 
 <a href="https://discord.com/users/893762371770802227">
-  <img src="https://lanyard-profile-readme.vercel.app/api/705665813994012695?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/893762371770802227?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
 </a>
 
 -**Albert Einstein**
