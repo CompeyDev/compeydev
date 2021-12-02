@@ -18,9 +18,14 @@ I am TheAwesomeCoder05 from [Team Awesome](https://github.com/Team2Awesome). You
 -**Albert Einstein**
 
 
-## Status:
+<h1 align="right">Status:</h1>
 
+    
 <a href="https://discord.com/users/893762371770802227">
   <img src="https://lanyard-profile-readme.vercel.app/api/893762371770802227?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
+</a>
+
+<a href="https://cdn.discordapp.com/attachments/897515471862120508/901520049511235614/devcomp_wave.gif">
+  <img src="https://d1j8pt39hxlh3d.cloudfront.net/uploads/clapping_hands_256_1.gif" align="left" />
 </a>
 
