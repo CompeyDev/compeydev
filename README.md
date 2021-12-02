@@ -13,7 +13,6 @@ I am TheAwesomeCoder05 from [Team Awesome](https://github.com/Team2Awesome). You
 
 ## One of my favourite quotes:
 
-<br>
 "_A person who never made a mistake never tried anything new._" 
 <br>
 <a href="https://discord.com/users/893762371770802227">
