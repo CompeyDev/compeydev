@@ -16,3 +16,6 @@ I am TheAwesomeCoder05 from [Team Awesome](https://github.com/Team2Awesome). You
 "_A person who never made a mistake never tried anything new._" 
 <br>
 -**Albert Einstein**
+
+## Status:
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/893762371770802227)](https://discord.com/users/893762371770802227)
