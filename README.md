@@ -12,8 +12,7 @@ I am TheAwesomeCoder05 from [Team Awesome](https://github.com/Team2Awesome). You
 ![NPM](https://camo.githubusercontent.com/1e50ab849e8c196ea962ac3b966a15924234879eeb85f9dd0e0431e43a145b43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e504d2d4342333833373f7374796c653d666c61742d737175617265266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465)
 
 ## One of my favourite quotes:
-
-
+<br>
 "_A person who never made a mistake never tried anything new._" 
 <br>
 <a href="https://discord.com/users/893762371770802227">
