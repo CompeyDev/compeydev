@@ -22,7 +22,7 @@ I am TheAwesomeCoder05 from [Team Awesome](https://github.com/Team2Awesome). You
 
     
 <a href="https://discord.com/users/893762371770802227">
-  <img src="https://lanyard-profile-readme.vercel.app/api/893762371770802227?hideTimestamp=false&idleMessage=No activity at the moment...&bg=682ac1" align="right" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/893762371770802227?hideTimestamp=false&idleMessage=No activity at the moment..." align="right" />
 </a>
 
 <a href="https://cdn.discordapp.com/attachments/897515471862120508/901520049511235614/devcomp_wave.gif">
