@@ -39,10 +39,6 @@ I am TheAwesomeCoder05 from [Team Awesome](https://github.com/Team2Awesome). You
 <br>
 <br>
 <a href="https://discord.com/users/893762371770802227">
-  <img src="https://lanyard-profile-readme.vercel.app/api/893762371770802227?hideTimestamp=false&idleMessage=No activity at the moment..." align="right" />
-</a>
-
-<a href="https://github.com/TheAwesomeCoder05">
-  <img align="left" src="https://github-readme-stats-zeta-six-67.vercel.app/api/pin/?username=TheAwesomeCoder05&repo=manimations&theme=dark" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/893762371770802227?hideTimestamp=false&idleMessage=No activity at the moment..."&theme=light align="left" />
 </a>
 
