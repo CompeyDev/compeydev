@@ -18,14 +18,30 @@ I am TheAwesomeCoder05 from [Team Awesome](https://github.com/Team2Awesome). You
 -**Albert Einstein**
 
 
-<h1 align="right">Status:</h1>
+
 
     
+
+<a href="https://github.com/TheAwesomeCoder05">
+  <img align="left" src="https://github-readme-stats-zeta-six-67.vercel.app/api/top-langs/?username=TheAwesomeCoder05&theme=dark&layout=compact&line_height=100" />
+</a>
+<a href="https://github.com/TheAwesomeCoder05">
+ <img align="right" src="https://github-readme-stats-zeta-six-67.vercel.app/api?username=TheAwesomeCoder05&show_icons=true&theme=dark&line_height=20" alt="DevComp's github stats"/>
+</a>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <a href="https://discord.com/users/893762371770802227">
   <img src="https://lanyard-profile-readme.vercel.app/api/893762371770802227?hideTimestamp=false&idleMessage=No activity at the moment..." align="right" />
 </a>
 
-<a href="https://cdn.discordapp.com/attachments/897515471862120508/901520049511235614/devcomp_wave.gif">
-  <img src="https://d1j8pt39hxlh3d.cloudfront.net/uploads/clapping_hands_256_1.gif" align="left" />
+<a href="https://github.com/TheAwesomeCoder05">
+  <img align="left" src="https://github-readme-stats-zeta-six-67.vercel.app/api/pin/?username=TheAwesomeCoder05&repo=manimations&theme=dark" />
 </a>
-
