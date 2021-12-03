@@ -25,7 +25,7 @@ I am TheAwesomeCoder05 from [Team Awesome](https://github.com/Team2Awesome). You
 
 
 
-
+## Stats and Status
 
 <a href="https://discord.com/users/893762371770802227">
   <img src="https://lanyard-profile-readme.vercel.app/api/893762371770802227?hideTimestamp=false&idleMessage=No activity at the moment..."&theme=light align="center" />
