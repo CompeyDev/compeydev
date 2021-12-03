@@ -22,23 +22,17 @@ I am TheAwesomeCoder05 from [Team Awesome](https://github.com/Team2Awesome). You
 
     
 
-<a href="https://github.com/TheAwesomeCoder05">
-  <img align="left" src="https://github-readme-stats-zeta-six-67.vercel.app/api/top-langs/?username=TheAwesomeCoder05&theme=dark&layout=compact&line_height=100" />
-</a>
-<a href="https://github.com/TheAwesomeCoder05">
- <img align="right" src="https://github-readme-stats-zeta-six-67.vercel.app/api?username=TheAwesomeCoder05&show_icons=true&theme=dark&line_height=20" alt="DevComp's github stats"/>
-</a>
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <a href="https://discord.com/users/893762371770802227">
-  <img src="https://lanyard-profile-readme.vercel.app/api/893762371770802227?hideTimestamp=false&idleMessage=No activity at the moment..."&theme=light align="left" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/893762371770802227?hideTimestamp=false&idleMessage=No activity at the moment..."&theme=light align="center" />
+</a>
+
+<a href="https://github.com/TheAwesomeCoder05">
+  <img align="center" src="https://github-readme-stats-zeta-six-67.vercel.app/api/top-langs/?username=TheAwesomeCoder05&theme=dark&layout=compact&line_height=100" />
+</a>
+<a href="https://github.com/TheAwesomeCoder05">
+  <img align="center" src="https://github-readme-stats-zeta-six-67.vercel.app/api?username=TheAwesomeCoder05&show_icons=true&theme=dark&line_height=20" />
 </a>
 
