@@ -1,8 +1,8 @@
 # Hi there from the Awesomeverse!👋
-<br>
+
  <img align="right" src="https://user-images.githubusercontent.com/74418041/152113169-7bcaa475-d6b9-40b5-921f-cfaf35fd256a.png" alt="banner">
 
-
+![Hits](https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FTheAwesomeCoder05)
 
 
 
