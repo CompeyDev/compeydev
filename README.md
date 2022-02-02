@@ -6,7 +6,10 @@
  <br>
  <br>
  
-![Hits](https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FTheAwesomeCoder05)
+ 
+ 
+ 
+
 
 
 
@@ -34,7 +37,7 @@ All my socials:<br>
 [Roblox](https://www.roblox.com/users/1226830396/profile) |
 [Twitter](https://twitter.com/DevComp_)<br>
 
-
+![Hits](https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FTheAwesomeCoder05)
 
 
     
@@ -50,5 +53,7 @@ All my socials:<br>
 <a href="https://github.com/TheAwesomeCoder05">
   <img align="center" src="https://github-readme-stats-zeta-six-67.vercel.app/api?username=TheAwesomeCoder05&show_icons=true&theme=dark&line_height=20" />
 </a>
+
+
 
 
