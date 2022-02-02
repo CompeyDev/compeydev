@@ -1,6 +1,6 @@
 # Hi there from the Awesomeverse!👋
 
-I am TheAwesomeCoder05 from [Team Awesome](https://github.com/Team2Awesome). You can find more about my builds and even download them at [TheAwesomeCoder05 Builds](https://bit.ly/3bXQtWK). 
+I am TheAwesomeCoder05 from [Team Comp](https://github.com/Team-C0MP). You can find more about my builds and even download them at [TheAwesomeCoder05 Builds](https://bit.ly/3bXQtWK). 
 
 ## Tools or Languages I use for development:
 
