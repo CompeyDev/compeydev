@@ -1,18 +1,9 @@
 # Hi there from the Awesomeverse!👋
 
  <img align="right" src="https://user-images.githubusercontent.com/74418041/152115323-a8278193-d374-48e6-b064-535c2a2e4ef2.png" alt="banner">
- 
- <br>
- <br>
+ ㅤ
  <br>
  
- 
- 
- 
-
-
-
-
 
 I am TheAwesomeCoder05 from [Team Comp](https://github.com/Team-C0MP). You can find more about my builds and even download them at [TheAwesomeCoder05 Builds](https://bit.ly/3bXQtWK). I am mainly a roblox developer, but I do work on some other projects too. 
 
