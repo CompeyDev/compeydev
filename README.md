@@ -1,6 +1,6 @@
 # Hi there from the Awesomeverse!👋
 
-I am TheAwesomeCoder05 from [Team Comp](https://github.com/Team-C0MP). You can find more about my builds and even download them at [TheAwesomeCoder05 Builds](https://bit.ly/3bXQtWK). 
+I am TheAwesomeCoder05 from [Team Comp](https://github.com/Team-C0MP). You can find more about my builds and even download them at [TheAwesomeCoder05 Builds](https://bit.ly/3bXQtWK). I am mainly a roblox developer, but I do work on some other projects too. 
 
 ## Tools or Languages I use for development:
 
@@ -16,6 +16,12 @@ I am TheAwesomeCoder05 from [Team Comp](https://github.com/Team-C0MP). You can f
 "_A person who never made a mistake never tried anything new._" 
 <br>
 -**Albert Einstein**
+
+All my socials:<br>
+[Discord](https://dsc.gg/team-comp) <br>
+[Youtube](https://www.youtube.com/channel/UCh9KkPjILEebJihTG_4s-Lg)<br>
+[Roblox](https://www.roblox.com/users/1226830396/profile)<br>
+[Twitter](https://twitter.com/DevComp_)<br>
 
 
 
