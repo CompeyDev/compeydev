@@ -7,7 +7,7 @@
 
 I am TheAwesomeCoder05 from [Team Comp](https://github.com/Team-C0MP). You can find more about my builds and even download them at [TheAwesomeCoder05 Builds](https://bit.ly/3bXQtWK). I am mainly a roblox developer, but I do work on some other projects too. 
 
-**My GPG Signature**: 4AEE18F83AFDEB23
+`My GPG Signature: 4AEE18F83AFDEB23`
 
 ## Tools or Languages I use for development:
 
