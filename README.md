@@ -1,4 +1,4 @@
-# Hi there from the Awesomeverse!👋
+# Hiya from the Awesomeverse!👋
 
  <img align="right" src="https://user-images.githubusercontent.com/74418041/152115323-a8278193-d374-48e6-b064-535c2a2e4ef2.png" alt="banner">
  ㅤ
