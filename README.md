@@ -25,9 +25,9 @@ I am TheAwesomeCoder05 from [Team Comp](https://github.com/Team-C0MP). You can f
 -**Albert Einstein**
 
 All my socials:<br>
-[Discord](https://dsc.gg/team-comp) <br>
-[Youtube](https://www.youtube.com/channel/UCh9KkPjILEebJihTG_4s-Lg)<br>
-[Roblox](https://www.roblox.com/users/1226830396/profile)<br>
+[Discord](https://dsc.gg/team-comp) |
+[Youtube](https://www.youtube.com/channel/UCh9KkPjILEebJihTG_4s-Lg) |
+[Roblox](https://www.roblox.com/users/1226830396/profile) |
 [Twitter](https://twitter.com/DevComp_)<br>
 
 
