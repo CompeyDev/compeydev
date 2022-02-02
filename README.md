@@ -1,6 +1,6 @@
 # Hi there from the Awesomeverse!👋
 <br>
- <img align="right" src="https://user-images.githubusercontent.com/74418041/152112475-8b3d0c35-ffc8-452e-b756-41ed74c42e47.png" alt="banner">
+ <img align="right" src="https://user-images.githubusercontent.com/74418041/152113169-7bcaa475-d6b9-40b5-921f-cfaf35fd256a.png" alt="banner">
 
 
 
