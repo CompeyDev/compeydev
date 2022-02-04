@@ -28,6 +28,7 @@ All my socials:<br>
 [Discord](https://www.devcomp.tk/discord) |
 [Youtube](https://www.youtube.com/channel/UCh9KkPjILEebJihTG_4s-Lg) |
 [Roblox](https://www.roblox.com/users/1226830396/profile) |
+[Spotify](https://spotify.devcomp.tk/) |
 [Twitter](https://twitter.com/DevComp_)<br>
 
 ![Hits](https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FTheAwesomeCoder05)
