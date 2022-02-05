@@ -45,7 +45,7 @@ All my socials:<br>
   <img src="https://lanyard-profile-readme.vercel.app/api/893762371770802227?hideTimestamp=false&idleMessage=No activity at the moment...&hideDiscrim=true"&theme=dark align="center" />
 </a>
 <a href="https://github.com/TheAwesomeCoder05">
-  <img align="center" src="https://github-readme-stats-zeta-six-67.vercel.app/api?username=TheAwesomeCoder05&show_icons=true&theme=dark&line_height=20" />
+  <img align="center" src="https://stats.devcomp.tk/api?username=TheAwesomeCoder05&show_icons=true&theme=dark&line_height=27&hide_border=true&layout=default" />
 </a>
 
 
