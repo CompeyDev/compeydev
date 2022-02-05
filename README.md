@@ -1,15 +1,21 @@
 # Hiya from the Awesomeverse!👋
 
- <img align="right" src="https://user-images.githubusercontent.com/74418041/152189347-5390d06a-00a0-4ed7-be50-f45a6b240f23.png" alt="banner">
-    ㅤ
+ <img align="right" src="https://user-images.githubusercontent.com/74418041/152642081-12907968-e7ef-4150-82b1-59e2ef0f8799.png" alt="banner">
+
+   ㅤ
  <br>
  
 
 I am TheAwesomeCoder05 from [Team Comp](https://github.com/Team-C0MP). You can find more about my builds and even download them at [TheAwesomeCoder05 Builds](https://bit.ly/3bXQtWK). I am mainly a roblox developer, but I do work on some other projects too. 
 
-<p align="center"> <a href="https://github.com/theawesomecoder05/"><img src="https://github-profile-trophy.vercel.app/?username=theawesomecoder05&theme=darkhub&margin-w=15&margin-h=15&column=7" alt="devcomp" /></a> </p>
+<p align="center"> <a href="https://github.com/theawesomecoder05/"><img src="https://github-profile-trophy.vercel.app/?username=theawesomecoder05&theme=nord&margin-w=15&margin-h=55&column=8" alt="devcomp" /></a> </p>
 
-<p align="center"> <a href="https://github.com/TheAwesomeCoder05/"><img src="https://stats.devcomp.tk/api?username=TheAwesomeCoder05&show_icons=true&theme=dark&line_height=27&hide_border=true&layout=default" alt="devcomp" /></a> </p>
+<p align="center"> <a href="https://github.com/TheAwesomeCoder05/"><img src="https://stats.devcomp.tk/api?username=TheAwesomeCoder05&show_icons=true&theme=nord&line_height=27&hide_border=true&layout=default" alt="devcomp" /></a> </p>
+
+
+
+
+
 
 `My GPG Key ID: 8F886BCC3892AE1E`
 
@@ -43,15 +49,9 @@ All my socials:<br>
 
 
 
-## Stats and Status
 
-<a href="https://discord.com/users/893762371770802227">
-  <img src="https://lanyard-profile-readme.vercel.app/api/893762371770802227?hideTimestamp=false&idleMessage=No activity at the moment...&hideDiscrim=true"&theme=dark align="center" />
-</a>
-<a href="https://github.com/TheAwesomeCoder05">
-  <img align="center" src="" />
-</a>
+<h2 align="left"> Discord Status:</h1>
 
-
+<p align="left"> <a href="https://discord.com/users/893762371770802227/"><img src="https://lanyard-profile-readme.vercel.app/api/893762371770802227?hideTimestamp=false&idleMessage=No activity at the moment...&hideDiscrim=true"&theme=dark" alt="discord" /></a> </p>
 
 
