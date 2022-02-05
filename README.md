@@ -14,7 +14,7 @@ I am TheAwesomeCoder05 from [Team Comp](https://github.com/Team-C0MP). You can f
 
   <summary>Metrics and more 📊</summary>
   
-[![GitHub metrics](https://github.com/micahlt/micahlt/blob/master/github-metrics.svg)](https://devcomp.tk)
+[![GitHub metrics](https://github.com/TheAwesomeCoder05/TheAwesomeCoder05/blob/master/github-metrics.svg)](https://devcomp.tk)
   
 </details>
 
