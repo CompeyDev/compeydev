@@ -12,7 +12,7 @@ I am TheAwesomeCoder05 from [Team Comp](https://github.com/Team-C0MP). You can f
 
 <p align="center"> <a href="https://github.com/TheAwesomeCoder05/"><img src="https://stats.devcomp.tk/api?username=TheAwesomeCoder05&show_icons=true&theme=nord&line_height=27&hide_border=true&layout=default" alt="devcomp" /></a> </p>
 
-  <summary>Metrics and more 📊</summary>
+  <summary>Metrics</summary>
   
 [![GitHub metrics](https://github.com/TheAwesomeCoder05/TheAwesomeCoder05/blob/master/github-metrics.svg)](https://devcomp.tk)
   
