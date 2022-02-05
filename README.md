@@ -7,6 +7,10 @@
 
 I am TheAwesomeCoder05 from [Team Comp](https://github.com/Team-C0MP). You can find more about my builds and even download them at [TheAwesomeCoder05 Builds](https://bit.ly/3bXQtWK). I am mainly a roblox developer, but I do work on some other projects too. 
 
+<p align="center"> <a href="https://github.com/theawesomecoder05/"><img src="https://github-profile-trophy.vercel.app/?username=theawesomecoder05&theme=darkhub&margin-w=15&margin-h=15&column=7" alt="devcomp" /></a> </p>
+
+<p align="center"> <a href="https://github.com/TheAwesomeCoder05/"><img src="https://stats.devcomp.tk/api?username=TheAwesomeCoder05&show_icons=true&theme=dark&line_height=27&hide_border=true&layout=default" alt="devcomp" /></a> </p>
+
 `My GPG Key ID: 8F886BCC3892AE1E`
 
 ## Tools or Languages I use for development:
@@ -45,7 +49,7 @@ All my socials:<br>
   <img src="https://lanyard-profile-readme.vercel.app/api/893762371770802227?hideTimestamp=false&idleMessage=No activity at the moment...&hideDiscrim=true"&theme=dark align="center" />
 </a>
 <a href="https://github.com/TheAwesomeCoder05">
-  <img align="center" src="https://stats.devcomp.tk/api?username=TheAwesomeCoder05&show_icons=true&theme=dark&line_height=27&hide_border=true&layout=default" />
+  <img align="center" src="" />
 </a>
 
 
