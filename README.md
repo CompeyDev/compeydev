@@ -7,6 +7,8 @@
  
 
 I am TheAwesomeCoder05 from [Team Comp](https://github.com/Team-C0MP). You can find more about my builds and even download them at [TheAwesomeCoder05 Builds](https://bit.ly/3bXQtWK). I am mainly a roblox developer, but I do work on some other projects too. 
+<br>
+`My GPG Key ID: 8F886BCC3892AE1E`
 
 <p align="center"> <a href="https://github.com/theawesomecoder05/"><img src="https://github-profile-trophy.vercel.app/?username=theawesomecoder05&theme=nord&margin-w=15&margin-h=55&column=8" alt="devcomp" /></a> </p>
 
@@ -22,7 +24,7 @@ I am TheAwesomeCoder05 from [Team Comp](https://github.com/Team-C0MP). You can f
 
 
 
-`My GPG Key ID: 8F886BCC3892AE1E`
+
 
 ## Tools or Languages I use for development:
 
