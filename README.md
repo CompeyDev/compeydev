@@ -1,4 +1,4 @@
-# Hiya from the Awesomeverse!👋
+# 👋 Hiya from the Awesomeverse!
 
  <p align="center"> <a href="https://buildergroop.com/"><img src="https://user-images.githubusercontent.com/74418041/152642081-12907968-e7ef-4150-82b1-59e2ef0f8799.png" alt="banner" /></a> </p>
  
@@ -58,7 +58,7 @@ All my socials:<br>
 
 
 
-<h2 align="left"> Discord Status:</h1>
+<h2 align="left">🟢 Discord Status:</h1>
 
 <p align="left"> <a href="https://discord.com/users/893762371770802227/"><img src="https://lanyard-profile-readme.vercel.app/api/893762371770802227?hideTimestamp=false&idleMessage=No activity at the moment...&hideDiscrim=true"&theme=dark" alt="discord" /></a> </p>
  
