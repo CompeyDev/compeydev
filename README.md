@@ -44,14 +44,14 @@ I am TheAwesomeCoder05 from [Team Comp](https://github.com/Team-C0MP). You can f
 <br>
 
 
-All my socials:<br>
-[Discord](https://www.devcomp.tk/discord) |
-[Youtube](https://www.youtube.com/channel/UCh9KkPjILEebJihTG_4s-Lg) |
-[Roblox](https://www.roblox.com/users/1226830396/profile) |
-[Spotify](https://spotify.devcomp.tk/) |
-[Twitter](https://twitter.com/DevComp_)<br>
-
-![Hits](https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FTheAwesomeCoder05)
+All my links:
+<a href="https://devcomp.tk" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/-Website-0D1117?style=flat-square&logo=googlechrome&logoColor=white"></a>
+<a href="https://devcomp.tk/discord" target="_blank"><img alt="discord" align="center" src="https://img.shields.io/badge/-Discord-0D1117?style=flat-square&logo=discord&logoColor=dark-blue"></a>
+<a href="https://twitter.com/DevComp_" target="_blank"><img alt="twitter" align="center" src="https://img.shields.io/badge/-Twitter-0D1117?style=flat-square&logo=twitter&logoColor=dark-blue"></a>
+<a href="https://spotify.devcomp.tk/" target="_blank"><img alt="spotify" align="center" src="https://img.shields.io/badge/-Spotify-0D1117?style=flat-square&logo=spotify&logoColor=dark-green"></a>
+<a href="https://www.roblox.com/users/1226830396/profile/" target="_blank"><img alt="roblox" align="center" src="https://img.shields.io/badge/-Roblox-0D1117?style=flat-square&logo=roblox&logoColor=grey"></a>
+<a href="https://www.youtube.com/channel/UCh9KkPjILEebJihTG_4s-Lg/" target="_blank"><img alt="youtube" align="center" src="https://img.shields.io/badge/-YouTube-0D1117?style=flat-square&logo=youtube&logoColor=red"></a>
+<br>
 
 
     
@@ -64,6 +64,8 @@ All my socials:<br>
 
 <p align="left"> <a href="https://discord.com/users/893762371770802227/"><img src="https://lanyard-profile-readme.vercel.app/api/893762371770802227?hideTimestamp=false&idleMessage=No activity at the moment...&hideDiscrim=true"&theme=dark" alt="discord" /></a> </p>
  
+ 
+![Hits](https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FTheAwesomeCoder05)
  
  
 
