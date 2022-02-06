@@ -13,9 +13,9 @@ I am TheAwesomeCoder05 from [Team Comp](https://github.com/Team-C0MP). You can f
 
 <p align="center"> <a href="https://github.com/TheAwesomeCoder05/"><img src="https://github.com/TheAwesomeCoder05/TheAwesomeCoder05/blob/main/github-metrics.svg" alt="metrics" /></a> </p>
 
-<p align="center"> <a href="https://github.com/theawesomecoder05/"><img src="https://github-profile-trophy.vercel.app/?username=theawesomecoder05&theme=nord&margin-w=15&margin-h=55&column=8" alt="devcomp" /></a> </p>
+<p align="center"> <a href="https://github.com/theawesomecoder05/"><img src="https://github-profile-trophy.vercel.app/?username=theawesomecoder05&theme=onestar&margin-w=15&margin-h=55&column=8&no-frame=true&no-bg=false" alt="devcomp" /></a> </p>
 
-<p align="center"> <a href="https://github.com/TheAwesomeCoder05/"><img src="https://stats.devcomp.tk/api?username=TheAwesomeCoder05&show_icons=true&theme=nord&line_height=27&hide_border=true&layout=default" alt="devcomp" /></a> </p>
+<p align="center"> <a href="https://github.com/TheAwesomeCoder05/"><img src="https://stats.devcomp.tk/api?username=TheAwesomeCoder05&show_icons=true&theme=dark&line_height=27&hide_border=true&layout=default" alt="devcomp" /></a> </p>
 
 
 
@@ -36,11 +36,13 @@ I am TheAwesomeCoder05 from [Team Comp](https://github.com/Team-C0MP). You can f
 ![NodeJS](https://camo.githubusercontent.com/425d14e7ceaf18d8bb8e9bf17cd1a270c928c888b9ee4abe84a3bc8a5b3122fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465)
 ![NPM](https://camo.githubusercontent.com/1e50ab849e8c196ea962ac3b966a15924234879eeb85f9dd0e0431e43a145b43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e504d2d4342333833373f7374796c653d666c61742d737175617265266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465)
 
-## One of my favourite quotes:
-
-"_A person who never made a mistake never tried anything new._" 
+## 😍 One of my favourite quotes:
+```
+"A person who never made a mistake never tried anything new." 
+-Albert Einstein
+```
 <br>
--**Albert Einstein**
+
 
 All my socials:<br>
 [Discord](https://www.devcomp.tk/discord) |
