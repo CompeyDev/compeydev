@@ -1,12 +1,14 @@
 # Hiya from the Awesomeverse!👋
 
  <p align="center"> <a href="https://buildergroop.com/"><img src="https://user-images.githubusercontent.com/74418041/152642081-12907968-e7ef-4150-82b1-59e2ef0f8799.png" alt="banner" /></a> </p>
+ 
+```js
+const GPG_Key = "CF80EB54747690C2F08B1EF98F886BCC3892AE1E"
+```
 
 I am TheAwesomeCoder05 from [Team Comp](https://github.com/Team-C0MP). You can find more about my builds and even download them at [TheAwesomeCoder05 Builds](https://bit.ly/3bXQtWK). I am mainly a roblox developer, but I do work on some other projects too. 
 <br>
-```js
-const GPG_ID = "8F886BCC3892AE1E"
-```
+
 <br>
 
 <p align="center"> <a href="https://github.com/TheAwesomeCoder05/"><img src="https://github.com/TheAwesomeCoder05/TheAwesomeCoder05/blob/main/github-metrics.svg" alt="metrics" /></a> </p>
@@ -25,7 +27,7 @@ const GPG_ID = "8F886BCC3892AE1E"
 
 
 
-## Tools or Languages I use for development:
+## 🔧 Tools or Languages I use for development:
 
 ![Git](https://camo.githubusercontent.com/561f3d4fd727fcca82984c91a65eca069ff34a435072158f6947c4ca52370eae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
 ![Docker](https://camo.githubusercontent.com/4d015bf250194995d899a5d2b90babf1afc4458c1589b93e58fdfa4119749a49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3436613266313f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465)
