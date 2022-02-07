@@ -2,7 +2,7 @@
 
 
 
- <p align="center"> <a href="https://buildergroop.com/"><img src="https://user-images.githubusercontent.com/74418041/152642081-12907968-e7ef-4150-82b1-59e2ef0f8799.png" alt="banner" /></a> </p>
+ <p align="center"> <a href="https://buildergroop.com/?src=DevComp_README"><img src="https://user-images.githubusercontent.com/74418041/152642081-12907968-e7ef-4150-82b1-59e2ef0f8799.png" alt="banner" /></a> </p> <!--buildergroop doesnt take ref params but i want to look cool lol--> 
  
 ```js
 const GPG_Key = "CF80EB54747690C2F08B1EF98F886BCC3892AE1E"
