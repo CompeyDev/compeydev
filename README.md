@@ -1,4 +1,6 @@
-# 👋 Hiya from the Awesomeverse!
+<h1 align="center" fontsize: '100px'>👋 Hiya from the Awesomeverse!</h3>
+
+
 
  <p align="center"> <a href="https://buildergroop.com/"><img src="https://user-images.githubusercontent.com/74418041/152642081-12907968-e7ef-4150-82b1-59e2ef0f8799.png" alt="banner" /></a> </p>
  
@@ -16,12 +18,6 @@ I am TheAwesomeCoder05 from [Team Comp](https://github.com/Team-C0MP). You can f
 <p align="center"> <a href="https://github.com/theawesomecoder05/"><img src="https://github-profile-trophy.vercel.app/?username=theawesomecoder05&theme=onestar&margin-w=15&margin-h=55&column=8&no-frame=true&no-bg=false" alt="devcomp" /></a> </p>
 
 <p align="center"> <a href="https://github.com/TheAwesomeCoder05/"><img src="https://stats.devcomp.tk/api?username=TheAwesomeCoder05&show_icons=true&theme=dark&line_height=27&hide_border=true&layout=default" alt="devcomp" /></a> </p>
-
-
-
-
-
-
 
 
 
@@ -67,6 +63,8 @@ All my links:
 <h2 align="left">🟢 Discord Status:</h1>
 
 <p align="left"> <a href="https://discord.com/users/893762371770802227/"><img src="https://lanyard-profile-readme.vercel.app/api/893762371770802227?hideTimestamp=false&idleMessage=No activity at the moment...&hideDiscrim=true"&theme=dark" alt="discord" /></a> </p>
+ 
+ ---
  
  
 ![Hits](https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FTheAwesomeCoder05)
