@@ -40,12 +40,10 @@ I am TheAwesomeCoder05 from [Team Comp](https://github.com/Team-C0MP). You can f
 
 
 
-```
 <!--STARTS_HERE_QUOTE_README-->
-"A person who never made a mistake never tried anything new." 
--Albert Einstein
+
 <!--ENDS_HERE_QUOTE_README-->
-```
+
 
 <br>
 
