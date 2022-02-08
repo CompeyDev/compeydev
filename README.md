@@ -5,7 +5,7 @@
  <p align="center"> <a href="https://buildergroop.com/?src=DevComp_README"><img src="https://user-images.githubusercontent.com/74418041/152642081-12907968-e7ef-4150-82b1-59e2ef0f8799.png" alt="banner" /></a> </p> <!--buildergroop doesnt take ref params but i want to look cool lol--> 
  
  ```csharp
-code123841@github
+DevComp@github
 -----------------
 OS:         openSUSE leap 15.3 & Windows 11
 Shell:      ZSH
