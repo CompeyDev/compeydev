@@ -4,20 +4,40 @@
 
  <p align="center"> <a href="https://buildergroop.com/?src=DevComp_README"><img src="https://user-images.githubusercontent.com/74418041/152642081-12907968-e7ef-4150-82b1-59e2ef0f8799.png" alt="banner" /></a> </p> <!--buildergroop doesnt take ref params but i want to look cool lol--> 
  
-```js
-const GPG_Key = "CF80EB54747690C2F08B1EF98F886BCC3892AE1E"
+ ```csharp
+code123841@github
+-----------------
+OS:         openSUSE leap 15.3 & Windows 11
+Shell:      ZSH
+Pronouns:   She/Her
+Nickname:   Compey
+Location:   internet
+Languages:  .js, .html, .css, .luau, .go
+Learning:   .ts
+GPG_PubKey: CF80EB54747690C2F08B1EF98F886BCC3892AE1E
 ```
+
+
 
 I am TheAwesomeCoder05 from [Team Comp](https://github.com/Team-C0MP). You can find more about my builds and even download them at [TheAwesomeCoder05 Builds](https://bit.ly/3bXQtWK). I am mainly a roblox developer, but I do work on some other projects too. 
 <br>
 
 <br>
 
+<details>
+  <summary>📊 Stats and more</summary>
+  
 <p align="center"> <a href="https://github.com/TheAwesomeCoder05/"><img src="https://github.com/TheAwesomeCoder05/TheAwesomeCoder05/blob/main/github-metrics.svg" alt="metrics" /></a> </p>
 
 <p align="center"> <a href="https://github.com/theawesomecoder05/"><img src="https://github-profile-trophy.vercel.app/?username=theawesomecoder05&theme=onestar&margin-w=15&margin-h=55&column=8&no-frame=true&no-bg=false" alt="devcomp" /></a> </p>
 
 <p align="center"> <a href="https://github.com/TheAwesomeCoder05/"><img src="https://stats.devcomp.tk/api?username=TheAwesomeCoder05&show_icons=true&theme=dark&line_height=27&hide_border=true&layout=default" alt="devcomp" /></a> </p>
+  
+</details>
+
+<br>
+
+
 
 
 
@@ -33,8 +53,6 @@ I am TheAwesomeCoder05 from [Team Comp](https://github.com/Team-C0MP). You can f
 ![NPM](https://camo.githubusercontent.com/1e50ab849e8c196ea962ac3b966a15924234879eeb85f9dd0e0431e43a145b43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e504d2d4342333833373f7374796c653d666c61742d737175617265266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465)
 
 ## 🧠 Fun Fact/Quote of the Day:
-
-
 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝“Where is the ‘any’ key?”— Homer Simpson, in response to the message, “Press any key”   ❞</i>
