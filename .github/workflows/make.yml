@@ -1,0 +1,15 @@
+name: Make site
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at 2 UTC everyday
+    - cron: "0 2 * * *"
+
+jobs:
+  update:
+    name: Update site embed
+    runs-on: ubuntu-latest
+    steps:
+      - name: Make site
+        uses: make
