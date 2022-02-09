@@ -2,6 +2,7 @@ name: Make site
 
 on:
   workflow_dispatch:
+  push: {branches: ["master", "main"]}
   schedule:
     # Runs at 2 UTC everyday
     - cron: "0 2 * * *"
