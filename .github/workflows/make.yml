@@ -13,4 +13,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Make site
-        run: curl "https://raw.githubusercontent.com/TheAwesomeCoder05/TheAwesomeCoder05/main/README.md" | tac | tac | awk -f riss.awk >content/readme-in-static-site.md
+        run: wget "https://raw.githubusercontent.com/TheAwesomeCoder05/TheAwesomeCoder05/main/README.md"
