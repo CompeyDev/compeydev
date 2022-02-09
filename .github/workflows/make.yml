@@ -13,4 +13,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Make site
-        run: wget "https://raw.githubusercontent.com/TheAwesomeCoder05/TheAwesomeCoder05/main/README.md"
+        run: wget "https://raw.githubusercontent.com/TheAwesomeCoder05/TheAwesomeCoder05/main/README.md" | awk -f riss.awk README.md
