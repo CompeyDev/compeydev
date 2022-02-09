@@ -1,0 +1,26 @@
+name: Update README files
+
+on:
+  schedule:
+    - cron: '30 */2 * * *'
+  push:
+    branches:
+    - master
+  # To run this workflow manually from GitHub GUI
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out the repo
+      uses: actions/checkout@v2
+    - name: Get the latest READMEs
+      run: make readme-update
+    - name: Commit and push if there are changes
+      run: |-
+        git diff
+        git config --global user.email "bot@example.com"
+        git config --global user.name "automaton"
+        git diff --quiet || (git add -u && git commit -m "Update READMEs")
+        git push        
