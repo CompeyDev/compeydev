@@ -10,8 +10,7 @@ date: 2022-02-09
 <!-- <h1 align="center" fontsize: '100px'>👋 Hiya from the Awesomeverse!</h3> -->
 
 
-
- <p align="center"> <a href="https://buildergroop.com/?src=DevComp_README"><img src="https://user-images.githubusercontent.com/74418041/152642081-12907968-e7ef-4150-82b1-59e2ef0f8799.png" alt="banner" /></a> </p> <!--buildergroop doesnt take ref params but i want to look cool lol--> 
+<a href="https://buildergroop.com/?src=DevComp_README" target="_blank"><img alt="buildergroop promo" align="center" src="https://user-images.githubusercontent.com/74418041/152642081-12907968-e7ef-4150-82b1-59e2ef0f8799.png"></a> <!--buildergroop doesnt take ref params but i want to look cool lol--> 
  
  ```csharp
 DevComp@github
