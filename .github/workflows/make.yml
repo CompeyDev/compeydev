@@ -16,3 +16,4 @@ jobs:
         run: wget "https://raw.githubusercontent.com/TheAwesomeCoder05/TheAwesomeCoder05/main/README.md" | wget "https://cj.rs/riss.awk"
       - name: generate
         run: awk -f riss.awk README.md #> content/index.html
+      - run: ls
