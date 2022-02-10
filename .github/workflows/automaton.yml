@@ -1,13 +1,11 @@
 name: Update README files
 
 on:
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
   schedule:
     - cron: '30 */2 * * *'
-  push:
-    branches:
-    - master
-  # To run this workflow manually from GitHub GUI
-  workflow_dispatch:
+
 
 jobs:
   build:
