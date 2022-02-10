@@ -14,7 +14,9 @@ jobs:
     - name: Check out the repo
       uses: actions/checkout@v2
     - name: Get the latest READMEs
-      run: wget "https://raw.githubusercontent.com/TheAwesomeCoder05/TheAwesomeCoder05/main/README.md" | wget "https://cj.rs/riss.awk" | awk -f riss.awk README.md > content/index.html
+      run: wget "https://raw.githubusercontent.com/TheAwesomeCoder05/TheAwesomeCoder05/main/README.md" 
+    - run: wget "https://cj.rs/riss.awk"
+    - run: awk -f riss.awk README.md > ./content/index.html
     - name: Commit and push if there are changes
       run: |-
         git diff
