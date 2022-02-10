@@ -1,5 +1,5 @@
 ---
-title: "README In Static Site (RISS)"
+title: "README for site)"
 date: 2022-02-09
 ---
 <!-- Powered by https://cj.rs/riss -->
