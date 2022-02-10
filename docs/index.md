@@ -1,11 +1,13 @@
 ---
-title: "README for site)"
+title: "DevComp's Portfolio!"
 date: 2022-02-09
 ---
 <!-- Powered by https://cj.rs/riss -->
 
 
-<h1 align="center" fontsize: '100px'>👋 Hiya from the Awesomeverse!</h3>
+# 👋 Hiya from the Awesomeverse!
+
+<!-- <h1 align="center" fontsize: '100px'>👋 Hiya from the Awesomeverse!</h3> -->
 
 
 
@@ -85,9 +87,11 @@ All my links:
 
 
 
-<h2 align="left">🟢 Discord Status:</h1>
+<!-- <h2 align="left">🟢 Discord Status:</h1> -->
+## 🟢 Discord Status:
 
-<p align="left"> <a href="https://discord.com/users/893762371770802227/"><img src="https://lanyard-profile-readme.vercel.app/api/893762371770802227?hideTimestamp=false&idleMessage=No activity at the moment...&hideDiscrim=true"&theme=dark" alt="discord" /></a> </p>
+ 
+![Discord](https://lanyard-profile-readme.vercel.app/api/893762371770802227?hideTimestamp=false&idleMessage=No+activity+at+the+moment...&hideDiscrim=true)
  
  ---
  
