@@ -13,6 +13,10 @@ end_insert -->
 # 👋 Hiya from the Awesomeverse!
 
 <!-- <h1 align="center" fontsize: '100px'>👋 Hiya from the Awesomeverse!</h3> -->
+![status](https://dev.discordprofiles.me/badge/status/893762371770802227?simple=true)
+![playing](https://dev.discordprofiles.me/badge/playing/893762371770802227)
+![vscode](https://dev.discordprofiles.me/badge/vscode/893762371770802227)
+[![spotify](https://dev.discordprofiles.me/badge/spotify/893762371770802227)](https://dev.discordprofiles.me/openspotify/893762371770802227)
 
 
 <a href="https://buildergroop.com/?src=DevComp_README" target="_blank"><img alt="buildergroop promo" align="center" src="https://user-images.githubusercontent.com/74418041/152642081-12907968-e7ef-4150-82b1-59e2ef0f8799.png"></a> <!--buildergroop doesnt take ref params but i want to look cool lol--> 
