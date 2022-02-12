@@ -36,10 +36,14 @@ GPG_PubKey: CF80EB54747690C2F08B1EF98F886BCC3892AE1E
 I am TheAwesomeCoder05 from [Team Comp](https://github.com/Team-C0MP). You can find more about my builds and even download them at [TheAwesomeCoder05 Builds](https://bit.ly/3bXQtWK). I am mainly a roblox developer, but I do work on some other projects too. 
 <br>
 
-<br>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheAwesomeCoder05&theme=tokyonight&hide_border=true">
+</p>
+
 
 <details>
-  <summary>📊 Stats and more</summary>
+  <summary>📊 More stats :D</summary>
   
 <p align="center"> <a href="https://github.com/TheAwesomeCoder05/"><img src="https://github.com/TheAwesomeCoder05/TheAwesomeCoder05/blob/main/github-metrics.svg" alt="metrics" /></a> </p>
 
@@ -102,6 +106,7 @@ All my links:
  
  
 ![Hits](https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FTheAwesomeCoder05&bgLeft=444444&bgRight=800080)
+ 
  
  
 
