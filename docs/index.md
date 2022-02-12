@@ -52,7 +52,7 @@ I am TheAwesomeCoder05 from [Team Comp](https://github.com/Team-C0MP). You can f
 <br>
 
 
-
+<iframe src:"https://team-c0mp.github.io/discord-embed/"></iframe>
 
 
 
