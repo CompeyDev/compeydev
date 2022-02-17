@@ -5,9 +5,9 @@ date: 2022-02-09
 ---
 end_insert -->
 <!-- Powered by https://cj.rs/riss -->
-<!-- remove -->
 
-<!-- end_remove -->
+
+
 
 
 # 👋 Hiya from the Awesomeverse!
@@ -46,7 +46,7 @@ I am TheAwesomeCoder05 from [Team Comp](https://github.com/Team-C0MP). You can f
 <img src="https://gh-readme-stats.herokuapp.com/?user=TheAwesomeCoder05&theme=tokyonight&hide_border=true">
 </p>
 
-
+<!-- remove -->
 <details>
   <summary>📊 More stats :D</summary>
   
@@ -57,6 +57,7 @@ I am TheAwesomeCoder05 from [Team Comp](https://github.com/Team-C0MP). You can f
 <p align="center"> <a href="https://github.com/TheAwesomeCoder05/"><img src="https://stats.devcomp.tk/api?username=TheAwesomeCoder05&show_icons=true&theme=dark&line_height=27&hide_border=true&layout=default" alt="devcomp" /></a> </p>
   
 </details>
+<!-- end_remove -->
 
 <br>
 
