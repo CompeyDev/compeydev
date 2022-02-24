@@ -39,7 +39,7 @@ GPG_PubKey: CF80EB54747690C2F08B1EF98F886BCC3892AE1E
 I am TheAwesomeCoder05 from [Team Comp](https://github.com/Team-C0MP). You can find more about my builds and even download them at [TheAwesomeCoder05 Builds](https://bit.ly/3bXQtWK). I am mainly a roblox developer, but I do work on some other projects too. 
 <br>
 
-<p align="center"> <a href="https://github.com/TheAwesomeCoder05/"><img src="https://github.com/TheAwesomeCoder05/TheAwesomeCoder05/blob/main/github-metrics.svg" alt="metrics" /></a> </p>
+<p align="center"> <a href="https://devcomp.tk/"><img src="https://github.com/TheAwesomeCoder05/TheAwesomeCoder05/blob/main/github-metrics.svg" alt="metrics" /></a> </p>
 
 
 <br>
