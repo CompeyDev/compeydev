@@ -49,7 +49,7 @@ I am TheAwesomeCoder05 from [Team Comp](https://github.com/Team-C0MP). You can f
  
 
 <p align="center">
-<img src="https://gh-readme-stats.herokuapp.com?user=TheAwesomeCoder&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=171717">
+<img src="https://gh-readme-stats.herokuapp.com?user=TheAwesomeCoder05&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=171717">
 </p>
 <!--
 <p align="center"> <a href="https://github.com/theawesomecoder05/"><img src="https://github-profile-trophy.vercel.app/?username=theawesomecoder05&theme=onestar&margin-w=15&margin-h=55&column=8&no-frame=true&no-bg=false" alt="devcomp" /></a> </p>
