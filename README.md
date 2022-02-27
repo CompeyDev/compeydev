@@ -41,21 +41,22 @@ GPG_PubKey: CF80EB54747690C2F08B1EF98F886BCC3892AE1E
 I am TheAwesomeCoder05 from [Team Comp](https://github.com/Team-C0MP). You can find more about my builds and even download them at [TheAwesomeCoder05 Builds](https://bit.ly/3bXQtWK). I am mainly a roblox developer, but I do work on some other projects too. 
 <br>
 
-<p align="center"> <a href="https://devcomp.tk/"><img src="https://github.com/TheAwesomeCoder05/TheAwesomeCoder05/blob/main/github-metrics.svg" alt="metrics" /></a> </p>
 
 <!-- remove -->
 <details>
   <summary>📊 More stats :D</summary>
  
-
+ <p align="center"> <a href="https://devcomp.tk/"><img src="https://github.com/TheAwesomeCoder05/TheAwesomeCoder05/blob/main/github-metrics.svg" alt="metrics" /></a> </p>
 <p align="center">
 <img src="https://gh-readme-stats.herokuapp.com?user=TheAwesomeCoder05&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=171717">
 </p>
 <!--
 <p align="center"> <a href="https://github.com/theawesomecoder05/"><img src="https://github-profile-trophy.vercel.app/?username=theawesomecoder05&theme=onestar&margin-w=15&margin-h=55&column=8&no-frame=true&no-bg=false" alt="devcomp" /></a> </p>
 -->
+
+ <!--
 <p align="center"> <a href="https://github.com/TheAwesomeCoder05/"><img src="https://stats.devcomp.tk/api?username=TheAwesomeCoder05&show_icons=true&theme=dark&line_height=27&hide_border=true&layout=default" alt="devcomp" /></a> </p>
- 
+ -->
 
   
 </details>
