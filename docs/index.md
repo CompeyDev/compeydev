@@ -5,6 +5,7 @@ date: 2022-02-09
 <!-- Powered by https://cj.rs/riss -->
 
 
+![devcomp banner gh](https://user-images.githubusercontent.com/74418041/156032052-7db9efa0-1e4e-4335-8cda-8a3deda78771.png)
 
 
 
@@ -19,21 +20,8 @@ date: 2022-02-09
 -->
 
 
-
-<a href="https://buildergroop.com/?src=DevComp_README" target="_blank"><img alt="buildergroop promo" align="center" src="https://files.devcomp.tk/r/READMEBannerGithub.png"></a> <!--buildergroop doesnt take ref params but i want to look cool lol--> 
 <!--
- ```csharp
-CompeyDev@github
------------------
-OS:         openSUSE leap 15.3 & Windows 11
-Shell:      ZSH
-Pronouns:   She/Her
-Nickname:   Compey
-Location:   internet
-Languages:  .js, .html, .css, .luau, .go
-Learning:   .ts
-GPG_PubKey: CF80EB54747690C2F08B1EF98F886BCC3892AE1E
-```
+<a href="https://buildergroop.com/?src=DevComp_README" target="_blank"><img alt="buildergroop promo" align="center" src="https://files.devcomp.tk/r/READMEBannerGithub.png"></a> 
 -->
 
 
