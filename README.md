@@ -42,7 +42,18 @@ GPG_PubKey: CF80EB54747690C2F08B1EF98F886BCC3892AE1E
 
 Hi, my name's CompeyDev. I'm a Web Developer. Here some info about me:
 <br>
-
+ ```csharp
+CompeyDev@github
+-----------------
+OS:         openSUSE leap 15.3 & Windows 11
+Shell:      ZSH
+Pronouns:   She/Her
+Nickname:   Compey
+Location:   internet
+Languages:  .js, .html, .css, .luau, .go
+Learning:   .ts
+GPG_PubKey: CF80EB54747690C2F08B1EF98F886BCC3892AE1E
+```
 
 
 
