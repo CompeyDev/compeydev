@@ -11,7 +11,7 @@ end_insert -->
 
 
 
-# 👋 Hiya from the Awesomeverse!
+# 👋 Hiya I'm CompeyDev!
 
 <!-- <h1 align="center" fontsize: '100px'>👋 Hiya from the Awesomeverse!</h3> -->
 <!--
@@ -28,7 +28,7 @@ end_insert -->
 
 
 
-Hi, my name's CompeyDev. I'm a Web Developer. Here some info about me:
+I'm a Web Developer who does JavaScript. Here some info about me:
 <br>
  ```csharp
 CompeyDev@github
