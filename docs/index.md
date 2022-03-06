@@ -35,8 +35,8 @@ Shell:      ZSH
 Pronouns:   She/Her
 Nickname:   Compey
 Location:   internet
-Languages:  .js, .html, .css, .luau, .go
-Learning:   .ts
+Languages:  .js, .html, .css, .luau, .go, .rb
+Learning:   .ts, .py
 GPG_PubKey: CF80EB54747690C2F08B1EF98F886BCC3892AE1E
 ```
 
