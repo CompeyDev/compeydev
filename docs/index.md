@@ -98,8 +98,8 @@ All my links:
 
 <p align="center">
  
-![Stats Overview](https://raw.githubusercontent.com/TheAwesomeCoder05/TheAwesomeCoder05/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/TheAwesomeCoder05/TheAwesomeCoder05/output/generated/languages.svg)
+![Stats Overview](https://raw.githubusercontent.com/CompeyDev/CompeyDev/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/CompeyDev/CompeyDev/output/generated/languages.svg)
  
  </p>
  
@@ -107,7 +107,7 @@ All my links:
 <details>
   <summary>More stats :D</summary>
  
- <p align="center"> <a href="https://devcomp.tk/"><img src="https://github.com/TheAwesomeCoder05/TheAwesomeCoder05/blob/main/github-metrics.svg" alt="metrics" /></a> </p>
+ <p align="center"> <a href="https://devcomp.tk/"><img src="https://github.com/CompeyDev/CompeyDev/blob/main/github-metrics.svg" alt="metrics" /></a> </p>
 <p align="center">
 <img src="https://gh-readme-stats.herokuapp.com?user=CompeyDev&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=171717">
 </p>
