@@ -29,6 +29,7 @@ end_insert -->
 
 I'm a Web Developer who does JavaScript. Here some info about me:
 <br>
+<!--
  ```csharp
 CompeyDev@github
 -----------------
@@ -40,6 +41,24 @@ Location:   internet
 Languages:  .js, .html, .css, .luau, .go, .rb
 Learning:   .ts, .py
 GPG_PubKey: CF80EB54747690C2F08B1EF98F886BCC3892AE1E
+```
+-->
+
+
+```js
+import compeydev from github
+
+module.exports = {
+
+OS: ["openSUSE Leap 15.3", "Windows 11"],
+Shell: "ZSH",
+Nickname: "Compey",
+Location: "Do be the internet",
+Languages: [".js", ".html", ".css", ".luau", ".go", ".rb"],
+Learning: [".ts", ".py"],
+GPG_PubKey: "CF80EB54747690C2F08B1EF98F886BCC3892AE1E"
+
+}
 ```
 
 
