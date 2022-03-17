@@ -38,7 +38,7 @@ Nickname:   Compey
 Location:   internet
 Languages:  .js, .html, .css, .luau, .go, .rb
 Learning:   .ts, .py
-GPG_PubKey: CF80EB54747690C2F08B1EF98F886BCC3892AE1E
+GPG_PubKey: D29EE374F1D4E0A630A5A2256567A9918662A1C4
 ```
 -->
 
@@ -54,7 +54,7 @@ Nickname: "Compey",
 Location: "Do be the internet",
 Languages: [".js", ".html", ".css", ".luau", ".go", ".rb"],
 Learning: [".ts", ".py"],
-GPG_PubKey: "CF80EB54747690C2F08B1EF98F886BCC3892AE1E"
+GPG_PubKey: "D29EE374F1D4E0A630A5A2256567A9918662A1C4"
 
 }
 ```
