@@ -10,6 +10,8 @@ date: 2022-02-09
 
 # 👋 Hiya I'm DevComp!
 
+...and I'm a [roblox] **dev**, **arsenal enthusiast**, and **myth hunter**
+
 <!-- <h1 align="center" fontsize: '100px'>👋 Hiya from the Awesomeverse!</h3> -->
 <!--
 ![status](https://dev.discordprofiles.me/badge/status/893762371770802227?simple=true)
@@ -24,8 +26,6 @@ date: 2022-02-09
 -->
 
 
-
-I'm a Web Developer who does JavaScript. Here some info about me:
 <br>
 <!--
  ```csharp
@@ -42,7 +42,7 @@ GPG_PubKey: D29EE374F1D4E0A630A5A2256567A9918662A1C4
 ```
 -->
 
-
+<!--
 ```js
 import compeydev from github
 
@@ -58,6 +58,11 @@ GPG_PubKey: "D29EE374F1D4E0A630A5A2256567A9918662A1C4"
 
 }
 ```
+-->
+
+<div align="left">
+<img src="https://user-images.githubusercontent.com/74418041/159011500-2d5b6af4-7e7d-4d06-a114-586738b62413.png">
+</div>
 
 
 
