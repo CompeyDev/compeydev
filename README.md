@@ -137,6 +137,8 @@ All my links:
  
 ![Discord](https://lanyard-profile-readme.vercel.app/api/893762371770802227?hideTimestamp=false&idleMessage=No+activity+at+the+moment...&hideDiscrim=true)
 
+Psst... Did you know that the emoji next to the text in the heading updates based on my status? Do it for yourself using [this](https://github.com/CompeyDev/discord-status-action).
+
 
 ## 📊 GitHub Stats:
 <p align="left"> <a href="https://devcomp.tk/"><img src="https://github.com/CompeyDev/CompeyDev/blob/main/github-metrics.svg" alt="metrics" /></a> </p>
