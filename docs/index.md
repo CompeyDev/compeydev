@@ -135,7 +135,6 @@ All my links:
  
 ![Discord](https://lanyard-profile-readme.vercel.app/api/893762371770802227?hideTimestamp=false&idleMessage=No+activity+at+the+moment...&hideDiscrim=true)
 
-<h2><img src="https://skillicons.dev/icons?i=github" width="35" length="35"></img> GitHub Stats</h2>
 
 ## 📊 GitHub Stats:
 
