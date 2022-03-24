@@ -20,7 +20,7 @@ jobs:
     - name: Commit and push if there are changes
       run: |-
         git diff
-        git config --global user.email "bot@example.com"
+        git config --global user.email "hi@devcomp.tk"
         git config --global user.name "automaton"
         git diff --quiet || (git add -u && git commit -m "Update READMEs")
         git push        
