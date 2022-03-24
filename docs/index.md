@@ -90,7 +90,7 @@ GPG_PubKey: "D29EE374F1D4E0A630A5A2256567A9918662A1C4"
 ## 🧠 Fun Fact/Quote of the Day:
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Data levels all arguments.”— Anthony W. Richardson❞</i>
+<i>❝“We have to stop optimizing for programmers and start optimizing for users.”— Jeff Atwood   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
