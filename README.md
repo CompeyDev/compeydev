@@ -132,7 +132,7 @@ All my links:
 
 
 
-<h2 align="left"><img src="https://skillicons.dev/icons?i=discord" width="35" length="35"></img> Discord Status:</h2>
+<h2 align="left">⚪ Discord Status:</h2>
 
  
 ![Discord](https://lanyard-profile-readme.vercel.app/api/893762371770802227?hideTimestamp=false&idleMessage=No+activity+at+the+moment...&hideDiscrim=true)
