@@ -137,7 +137,7 @@ All my links:
 
 
 ## 📊 GitHub Stats:
-<p align="center"> <a href="https://devcomp.tk/"><img src="https://github.com/CompeyDev/CompeyDev/blob/main/github-metrics.svg" alt="metrics" /></a> </p>
+<p align="left"> <a href="https://devcomp.tk/"><img src="https://github.com/CompeyDev/CompeyDev/blob/main/github-metrics.svg" alt="metrics" /></a> </p>
 <!--
 <p align="center">
  
