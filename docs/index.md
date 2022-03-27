@@ -62,7 +62,7 @@ GPG_PubKey: "D29EE374F1D4E0A630A5A2256567A9918662A1C4"
 -->
 
 <div align="left">
-<img src="https://user-images.githubusercontent.com/74418041/159011500-2d5b6af4-7e7d-4d06-a114-586738b62413.png">
+<img src="https://user-images.githubusercontent.com/74418041/160289231-ce5c527e-a1cc-4697-906e-f92df443c667.png" width="500">
 </div>
 
 
@@ -130,7 +130,7 @@ All my links:
 
 
 
-<h2 align="left">⚪ Discord Status:</h2>
+<h2 align="left">🟢 Discord Status:</h2>
 
  
 ![Discord](https://lanyard-profile-readme.vercel.app/api/893762371770802227?hideTimestamp=false&idleMessage=No+activity+at+the+moment...&hideDiscrim=true)
