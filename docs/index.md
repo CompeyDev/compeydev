@@ -107,7 +107,7 @@ GPG_PubKey: "D29EE374F1D4E0A630A5A2256567A9918662A1C4"
 ## 🧠 Fun Fact/Quote of the Day:
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“XML is not a language in the sense of a programming language any more than sketches on a napkin are a language.”— Charles Simonyi   ❞</i>
+<i>❝“When debugging, novices insert corrective code; experts remove defective code.”— Richard Pattis   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
@@ -130,7 +130,7 @@ All my links:
 
 
 
-<h2 align="left">⚪ Discord Status:</h2>
+<h2 align="left">🔴 Discord Status:</h2>
 
  
 ![Discord](https://lanyard-profile-readme.vercel.app/api/893762371770802227?hideTimestamp=false&idleMessage=No+activity+at+the+moment...&hideDiscrim=true)
