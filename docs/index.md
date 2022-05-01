@@ -93,7 +93,7 @@ GPG_PubKey: "D29EE374F1D4E0A630A5A2256567A9918662A1C4"
 ![Linux](https://user-images.githubusercontent.com/74418041/159856257-83987577-671b-4bc8-9a3b-49422bf93c36.png)
 -->
 
-![Languages](https://skillicons.dev/icons?i=git,html,css,js,nodejs,ruby,go,lua,py,mongo,docker,linux,blender,cloudflare,vscode)
+![Languages](https://skillicons.dev/icons?i=git,html,css,js,ts,ruby,go,lua,py,mongo,docker,linux,blender,cloudflare,vscode)
 
 
 
@@ -128,7 +128,7 @@ All my links:
 
 
 
-<h2 align="left">⚪ Discord Status:</h2>
+<h2 align="left">🔴 Discord Status:</h2>
 
  
 ![Discord](https://lanyard-profile-readme.vercel.app/api/893762371770802227?hideTimestamp=false&idleMessage=No+activity+at+the+moment...&hideDiscrim=true)
