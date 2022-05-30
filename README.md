@@ -107,7 +107,7 @@ GPG_PubKey: "D29EE374F1D4E0A630A5A2256567A9918662A1C4"
 ## 🧠 Fun Fact/Quote of the Day:
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Make everything as simple as possible, but not simpler.”— Albert Einstein   ❞</i>
+<i>❝“It’s better to wait for a productive programmer to become available than it is to wait for the first available programmer to become productive.”— Steve McConnell❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
