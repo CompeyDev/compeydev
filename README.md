@@ -13,7 +13,7 @@ end_insert -->
 
 # 👋 Hiya I'm DevComp!
 
-...and I'm a [roblox] **dev**, **arsenal enthusiast**, and **myth hunter**
+...and I'm a JavaScript **dev**, **arsenal enthusiast**, and **myth hunter**
 
 <!-- <h1 align="center" fontsize: '100px'>👋 Hiya from the Awesomeverse!</h3> -->
 <!--
