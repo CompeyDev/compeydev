@@ -32,7 +32,7 @@ I'm a JavaScript and TypeScript engineer, with experience with multiple other la
 <br>
 
 ## Contact: 
-If you would like to get in touch with me, reach me out via:
+If you would like to get in touch with me, reach out to me via:
 - Discord - DevComp#0750 🔴
 - Twitter - <a href="https://twitter.com/DevComp_">@DevComp_</a> 
 - Email - <a href="mailto:hi@devcomp.xyz">hi@devcomp.xyz</a>
