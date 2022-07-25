@@ -6,7 +6,7 @@ I'm a JavaScript and TypeScript engineer, with experience with multiple other la
 
 ---
 <a href="https://discord.com/users/893762371770802227">
-  <img size="10%" src="https://lanyard-profile-readme.vercel.app/api/893762371770802227?hideTimestamp=true&idleMessage=Idle%20%20at%20the%20moment..." align="right" />
+  <img size="9%" src="https://lanyard-profile-readme.vercel.app/api/893762371770802227?hideTimestamp=true&idleMessage=Idle%20%20at%20the%20moment..." align="right" />
 </a>
 
 
