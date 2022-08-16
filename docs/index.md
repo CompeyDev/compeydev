@@ -19,7 +19,7 @@ I'm a JavaScript and TypeScript engineer, with experience in multiple other lang
 ## 🧠 Fun Fact/Quote of the Day:
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝E-Mail was invented before Internet. Shocked!!!! ” I also got shocked after hearing this.”❞</i>
+<i>❝“In Data Science if you want to help individuals, be empathetic and ask questions; that way, you can begin to understand their journey, too.”— Damian Duffy Mingle❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <a href="https://devcomp.xyz" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/-Website-0D1117?style=flat-square&logo=googlechrome&logoColor=white"></a>
@@ -33,7 +33,7 @@ I'm a JavaScript and TypeScript engineer, with experience in multiple other lang
 
 ## Contact: 
 If you would like to get in touch with me, reach out to me via:
-- Discord - DevComp#0750 ⚪
+- Discord - DevComp#0750 🔴
 - Twitter - <a href="https://twitter.com/DevComp_">@DevComp_</a> 
 - Email - <a href="mailto:hi@devcomp.xyz">hi@devcomp.xyz</a>
 
