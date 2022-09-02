@@ -27,7 +27,9 @@ I'm a JavaScript and TypeScript engineer, with experience in multiple other lang
 <a href="https://twitter.com/DevComp_" target="_blank"><img alt="twitter" align="center" src="https://img.shields.io/badge/-Twitter-0D1117?style=flat-square&logo=twitter&logoColor=dark-blue"></a>
 <a href="https://spotify.devcomp.xyz/" target="_blank"><img alt="spotify" align="center" src="https://img.shields.io/badge/-Spotify-0D1117?style=flat-square&logo=spotify&logoColor=dark-green"></a>
 <a href="https://www.roblox.com/users/1226830396/profile/" target="_blank"><img alt="roblox" align="center" src="https://img.shields.io/badge/-Roblox-0D1117?style=flat-square&logo=roblox&logoColor=grey"></a>
+<!--
 <a href="https://www.youtube.com/channel/UCh9KkPjILEebJihTG_4s-Lg/" target="_blank"><img alt="youtube" align="center" src="https://img.shields.io/badge/-YouTube-0D1117?style=flat-square&logo=youtube&logoColor=red"></a>
+-->
 <br>
 <br>
 
