@@ -19,7 +19,7 @@ I'm a JavaScript and TypeScript engineer, with experience in multiple other lang
 ## 🧠 Fun Fact/Quote of the Day:
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Hoaxes use weaknesses in human behavior to ensure they are replicated and distributed.  In other words, hoaxes prey on the Human Operating System.”— Stewart Kirkpatrick   ❞</i>
+<i>❝“I think computer viruses should count as life.  I think it says something about human nature that the only form of life we have created so far is purely destructive.  We’ve created life in our own image.”— Stephen Hawking   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <a href="https://devcomp.xyz" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/-Website-0D1117?style=flat-square&logo=googlechrome&logoColor=white"></a>
