@@ -19,7 +19,7 @@ I'm a JavaScript and TypeScript engineer, with experience in multiple other lang
 ## 🧠 Fun Fact/Quote of the Day:
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝During the production of Toy Story 2, Pixar accidentally deleted the entire movie from its servers. The movie was saved by an employee, a new mother, who worked from home and had the data saved on her personal computer.❞</i>
+<i>❝China has the highest number of internet users in the whole world with over 746 million active users.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <a href="https://devcomp.xyz" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/-Website-0D1117?style=flat-square&logo=googlechrome&logoColor=white"></a>
