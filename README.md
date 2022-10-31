@@ -31,7 +31,6 @@ I'm a JavaScript and TypeScript engineer, with experience in multiple other lang
 <a href="https://www.youtube.com/channel/UCh9KkPjILEebJihTG_4s-Lg/" target="_blank"><img alt="youtube" align="center" src="https://img.shields.io/badge/-YouTube-0D1117?style=flat-square&logo=youtube&logoColor=red"></a>
 -->
 <br>
-<br>
 
 ## Contact: 
 If you would like to get in touch with me, reach out to me via:
