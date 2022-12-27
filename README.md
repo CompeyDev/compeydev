@@ -19,7 +19,7 @@ I'm a JavaScript and TypeScript engineer, with experience in multiple other lang
 ## 🧠 Fun Fact/Quote of the Day:
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“There’s no obfuscated Perl contest because it’s pointless.”— Jeff Polk   ❞</i>
+<i>❝“We have to stop optimizing for programmers and start optimizing for users.”— Jeff Atwood   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <a href="https://devcomp.xyz" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/-Website-0D1117?style=flat-square&logo=googlechrome&logoColor=white"></a>
