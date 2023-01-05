@@ -40,6 +40,4 @@ If you would like to get in touch with me, reach out to me via:
 
 
 
-<!-- [![Hits](https://hits.link/hits?url=https://github.com/TheAwesomeCoder05&bgLeft=444444&bgRight=800080&label=visits)](https://hits.link) -->
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCompeyDev&count_bg=%23800080&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits-app.vercel.app/hits?url=https://github.com/TheAwesomeCoder05&bgLeft=444444&bgRight=800080&label=visits)](https://hits.link) 
