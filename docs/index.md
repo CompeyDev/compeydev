@@ -34,10 +34,12 @@ I'm a JavaScript and TypeScript engineer, with experience in multiple other lang
 
 ## Contact: 
 If you would like to get in touch with me, reach out to me via:
-- Discord - DevComp#0750 ⚪
+- Discord - DevComp#0750 🔴
 - Twitter - <a href="https://twitter.com/DevComp_">@DevComp_</a> 
 - Email - <a href="mailto:hi@devcomp.xyz">hi@devcomp.xyz</a>
 
 
 
-[![Hits](https://hits.link/hits?url=https://github.com/TheAwesomeCoder05&bgLeft=444444&bgRight=800080&label=visits)](https://hits.link)
+<!-- [![Hits](https://hits.link/hits?url=https://github.com/TheAwesomeCoder05&bgLeft=444444&bgRight=800080&label=visits)](https://hits.link) -->
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCompeyDev&count_bg=%23800080&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
