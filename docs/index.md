@@ -40,4 +40,4 @@ If you would like to get in touch with me, reach out to me via:
 
 
 
-[![Hits](https://hits-app.vercel.app/hits?url=https://github.com/CompeyDev&bgLeft=444444&bgRight=800080&label=visits)](https://hits.link) 
+[![Hits](https://hits-app.vercel.app/hits?url=https://github.com/CompeyDev&bgLeft=444444&bgRight=800080&label=visits)](https://hits-app.vercel.app/) 
