@@ -19,7 +19,7 @@ I'm a JavaScript and TypeScript engineer, with experience in multiple other lang
 ## 🧠 Fun Fact/Quote of the Day:
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
+<i>❝“If you have a procedure with ten parameters, you probably missed some.”— Alan Perlis  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <a href="https://devcomp.xyz" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/-Website-0D1117?style=flat-square&logo=googlechrome&logoColor=white"></a>
