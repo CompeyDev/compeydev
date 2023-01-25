@@ -13,7 +13,7 @@ I'm a JavaScript and TypeScript engineer, with experience in multiple other lang
 ### My Stack:
 ![Web Development](https://skillicons.dev/icons?i=html,css,js,ts,prisma,mysql,nextjs,vercel&perline=10)
 
-![Other](https://skillicons.dev/icons?i=git,ruby,go,docker,lua,py,linux,vscode&perline=10)
+![Other](https://skillicons.dev/icons?i=git,rust,go,docker,lua,py,linux,vscode&perline=10)
 <br>
 
 ## 🧠 Fun Fact/Quote of the Day:
@@ -34,7 +34,7 @@ I'm a JavaScript and TypeScript engineer, with experience in multiple other lang
 
 ## Contact: 
 If you would like to get in touch with me, reach out to me via:
-- Discord - DevComp#0750 ⚪
+- Discord - DevComp#0750 🔴
 - Twitter - <a href="https://twitter.com/DevComp_">@DevComp_</a> 
 - Email - <a href="mailto:hi@devcomp.xyz">hi@devcomp.xyz</a>
 
