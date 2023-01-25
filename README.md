@@ -13,7 +13,7 @@ I'm a JavaScript and TypeScript engineer, with experience in multiple other lang
 ### My Stack:
 ![Web Development](https://skillicons.dev/icons?i=html,css,js,ts,prisma,mysql,nextjs,vercel&perline=10)
 
-![Other](https://skillicons.dev/icons?i=git,ruby,go,docker,lua,py,linux,vscode&perline=10)
+![Other](https://skillicons.dev/icons?i=git,rust,go,docker,lua,py,linux,vscode&perline=10)
 <br>
 
 ## 🧠 Fun Fact/Quote of the Day:
