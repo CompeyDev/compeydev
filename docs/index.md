@@ -1,6 +1,6 @@
 <!-- ![devcomp banner gh](https://user-images.githubusercontent.com/74418041/156032052-7db9efa0-1e4e-4335-8cda-8a3deda78771.png) -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=9069F7&lines=%F0%9F%91%8B+Hiya+I'm+DevComp!)](https://git.io/typing-svg) 
- 
+
 I'm a JavaScript and TypeScript engineer, with experience in multiple other languages. Currently learning Rust & C.
 
 
@@ -34,7 +34,7 @@ I'm a JavaScript and TypeScript engineer, with experience in multiple other lang
 
 ## Contact: 
 If you would like to get in touch with me, reach out to me via:
-- Discord - DevComp#0750 🔴
+- Discord - DevComp#0750 ⚪
 - Twitter - <a href="https://twitter.com/DevComp_">@DevComp_</a> 
 - Email - <a href="mailto:hi@devcomp.xyz">hi@devcomp.xyz</a>
 
