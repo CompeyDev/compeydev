@@ -19,7 +19,7 @@ I'm a JavaScript and TypeScript engineer, with experience in multiple other lang
 ## 🧠 Fun Fact/Quote of the Day:
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Low-level programming is good for the programmer’s soul.”— John Carmack   ❞</i>
+<i>❝HDMI charges its licensed manufacturers $10,000 per year plus $0.15 per cable, reduced to $0.05 if the HDMI logo is on the socket.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <a href="https://devcomp.xyz" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/-Website-0D1117?style=flat-square&logo=googlechrome&logoColor=white"></a>
@@ -34,7 +34,7 @@ I'm a JavaScript and TypeScript engineer, with experience in multiple other lang
 
 ## Contact: 
 If you would like to get in touch with me, reach out to me via:
-- Discord - DevComp#0750 ⚪
+- Discord - DevComp#0750 🟢
 - Twitter - <a href="https://twitter.com/DevComp_">@DevComp_</a> 
 - Email - <a href="mailto:hi@devcomp.xyz">hi@devcomp.xyz</a>
 
