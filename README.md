@@ -2,10 +2,8 @@
 > On a long hiatus (break) for a while due to personal reasons; hopefully returning back in 2 years. Won't be available anywhere on the internet, including any of my socials or discord.
 <br />
 
-![pixel art cloud at night banner](https://user-images.githubusercontent.com/74418041/232202456-9bd0110e-cc63-4b43-a920-5ec02c1e188f.png)
-
 <!-- ![devcomp banner gh](https://user-images.githubusercontent.com/74418041/156032052-7db9efa0-1e4e-4335-8cda-8a3deda78771.png) -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=9069F7&lines=%F0%9F%91%8B+Hiya+I'm+DevComp!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=9069F7&lines=%F0%9F%91%8B+Hiya+I'm+DevComp!)](https://git.io/typing-svg)
 
 I'm a JavaScript and TypeScript engineer, with experience in multiple other languages. Currently learning Rust & C.
 
