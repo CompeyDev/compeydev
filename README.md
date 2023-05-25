@@ -1,16 +1,19 @@
 <!-- ![devcomp banner gh](https://user-images.githubusercontent.com/74418041/156032052-7db9efa0-1e4e-4335-8cda-8a3deda78771.png) -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=9069F7&lines=%F0%9F%91%8B+Hiya+I'm+DevComp!)](https://git.io/typing-svg)
 
-I'm a backend systems engineer & game developer. I primarily specialize in **Luau**, **Rust**, **TypeScript** & **JavaScript**, however I have extensive experience with other languages too.
-
+<samp>
+I'm a backend systems engineer & game developer. I primarily specialize in <b>Luau</b>, <b>Rust</b>, <b>Go</b>, <b>TypeScript</b> & <b>JavaScript</b>, however I have extensive experience with other languages too.
+</samp>
 
 ---
 <a>
   <img width="40%" src="https://lanyard-profile-readme.vercel.app/api/893762371770802227?hideTimestamp=true&idleMessage=Idle%20%20at%20the%20moment...&hideDiscrim=true" align="right" />
 </a>
 
+<samp>
+  <h3>My Stack:</h3>
+</samp>
 
-### My Stack:
 ![Web Development](https://skillicons.dev/icons?i=html,css,js,ts,prisma,mysql,nextjs,vercel&perline=10)
 
 ![Other](https://skillicons.dev/icons?i=git,rust,go,docker,lua,py,linux,vscode&perline=10)
