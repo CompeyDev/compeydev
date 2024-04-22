@@ -1,8 +1,8 @@
 <!-- ![devcomp banner gh](https://user-images.githubusercontent.com/74418041/156032052-7db9efa0-1e4e-4335-8cda-8a3deda78771.png) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=BD6DFFC3&background=FFFFFF00&repeat=false&random=false&size=30&lines=%F0%9F%91%8B+hiya%2C+i'm+DevComp!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=cba6f7&background=FFFFFF00&repeat=false&random=false&size=30&lines=%F0%9F%91%8B+hiya%2C+i'm+DevComp!)](https://git.io/typing-svg)
 ---
-<a>
-  <img width="40%" src="https://lanyard-profile-readme.vercel.app/api/893762371770802227?hideTimestamp=true&idleMessage=Idle%20%20at%20the%20moment...&hideDiscrim=true" align="right" />
+<a href="https://lanyard-visualizer-plskz.vercel.app/profile/893762371770802227">
+  <img width="40%" src="https://lanyard-profile-readme.vercel.app/api/893762371770802227?hideTimestamp=true&idleMessage=Just%20%20chillin'...&bg=1e1e2e&borderRadius=10px" align="right" />
 </a>
 
 <samp>
@@ -41,4 +41,4 @@ If you would like to get in touch with me, reach out to me via:
 
 
 
-[![Hits](https://hits-app.vercel.app/hits?url=https://github.com/CompeyDev&bgLeft=444444&bgRight=c485d1&label=visits)](https://hits-app.vercel.app/) 
+[![Hits](https://hits-app.vercel.app/hits?url=https://github.com/CompeyDev&bgLeft=cba6f7&bgRight=1e1e2e&label=visits)](https://hits-app.vercel.app/) 
