@@ -9,8 +9,8 @@
   <h3>My Stack:</h3>
 </samp>
 
-![Systems](https://skillicons.dev/icons?i=rust,go,java,lua,bash,neovim,linux,docker&perline=10)
-![Web](https://skillicons.dev/icons?i=html,css,js,ts,prisma,mysql,nextjs,vercel&perline=10)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=arch,linux,bash,neovim,vscodium,docker,git&perline=10)
+![Web](https://go-skill-icons.vercel.app/api/icons?i=rust,luau,ts,c,go,astro,java&perline=10)
 <br>
 
 
